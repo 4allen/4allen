@@ -1,10 +1,7 @@
-### Aoba, meu nome é Hellen 👋
+###Meu nome é Hellen 👋
 
 
-- 🔭 Trabalho como jovem aprendiz em Security Engineer
-- 🌱 Estudando python e CSS
-- 📫 maitoeu@gmail.com
-- 😄 ela/ele/elu
+
 
 <div align="center">
   <a href="https://github.com/4allen">
